@@ -3,7 +3,7 @@
 
 - 📫 How to reach me **fc.fatihcesur@gmail.com**
 
-**Strong Languages: ** C#, Java
+**Strong Languages:** C#, Java
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
