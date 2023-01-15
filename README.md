@@ -2,8 +2,10 @@
 <h3 align="center">A passionate Software Engineer with interest on OOP and System Design. I graduated from Istanbul University - Computer Engineering and got my Bachelor's degree. I am constantly researching and gaining experience in order to create a better version of me.</h3>
 
 - 📫 How to reach me **fc.fatihcesur@gmail.com**
+- 
 
 **Strong Languages:** C#, Java
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
