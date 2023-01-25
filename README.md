@@ -1,6 +1,6 @@
 <h3>Hi 👋, I'm Fatih Cesur</h3>
-<br\>
-<h3 align="center">A passionate Software Engineer with interest on OOP and System Design. I graduated from Istanbul University - Computer Engineering and got my Bachelor's degree. I am constantly researching and gaining experience in order to create a better version of me.</h3>
+<br\><br\>
+<h3>A passionate Software Engineer with interest on OOP and System Design. I graduated from Istanbul University - Computer Engineering and got my Bachelor's degree. I am constantly researching and gaining experience in order to create a better version of me.</h3>
 
 - 📫 How to reach me **fc.fatihcesur@gmail.com**
 
