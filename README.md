@@ -3,7 +3,7 @@
 <p>A passionate Software Engineer with interest on OOP and System Design.</p>
 <p>I graduated from Istanbul University - Computer Engineering and got my Bachelor's degree. I am constantly researching and gaining experience in order to create a better version of me.</p>
 
-- 📫 How to reach me **fc.fatihcesur@gmail.com**
+📫 How to reach me **fc.fatihcesur@gmail.com**
 
 
 **Mostly used languages:** C#, Java
