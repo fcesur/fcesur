@@ -6,7 +6,7 @@
 📫 How to reach me **fc.fatihcesur@gmail.com**
 
 
-**Mostly used languages:** C#, Java
+**Mostly used languages:** Java, C#
 
 
 
